@@ -1,0 +1,14 @@
+# Dossiers Python
+__pycache__/
+*.pyc
+
+# Fichiers de sortie
+*.png
+*.svg
+*.txt
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
